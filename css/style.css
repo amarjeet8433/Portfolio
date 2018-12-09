@@ -1,0 +1,62 @@
+body
+{
+	background-color: #eee;
+}
+
+header
+{
+	text-align: right;
+	color: darkgrey;
+	margin-right: 40px;
+}
+
+section
+{
+	text-align: right;
+	margin-right: 160px;
+	padding: 20px;
+}
+
+.font_GV
+{
+	font-family: 'Great Vibes', cursive;
+	font-size: 50px;
+}
+
+.font_L
+{
+	font-family: 'Lobster', cursive;
+	font-size: 30px;
+}
+
+.btn_box
+{
+	width: 200px;
+	height: 200px;
+	font-size: 30px !important;
+	margin-left: 90px;
+}
+
+.jumbotron
+{
+	background: url("D:/Amarjeet/Portfolio/images/trial1.png");
+	background-size: contain;
+	background-repeat: no-repeat;
+	height: 100%;
+	margin-bottom: 0;
+}
+
+.nav_bg
+{
+	height: 78px;
+	font-size: 30px;
+	color: black;
+	text-align: center;
+}
+
+.nav_bg:hover
+{
+	color: #fff;
+  	background-color: #343a40;
+}
+
