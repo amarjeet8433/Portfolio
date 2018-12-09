@@ -39,7 +39,7 @@ section
 
 .jumbotron
 {
-	background: url("D:/Amarjeet/Portfolio/images/trial1.png");
+	background-image: url("../trial1.png");
 	background-size: contain;
 	background-repeat: no-repeat;
 	height: 100%;
